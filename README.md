@@ -17,7 +17,7 @@ $ python3 main.py
 ## Citing
 If you find this open source release useful, please reference in your paper:
 ```
-123
+Ma, Xiaoteng, Yiqin Yang, Hao Hu, Qihan Liu, Jun Yang, Chongjie Zhang, Qianchuan Zhao, and Bin Liang. "Offline Reinforcement Learning with Value-based Episodic Memory." arXiv preprint arXiv:2110.09796 (2021).
 ```
 
 ## Note
