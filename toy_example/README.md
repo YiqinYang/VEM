@@ -1,8 +1,9 @@
 # Toy Example of Value-Based Episodic Memory Control
 
-![VEM-toy1](https://github.com/YiqinYang/VEM/blob/main/toy_example/toy1.png =100x100)
-
-![VEM-toy2](https://github.com/YiqinYang/VEM/blob/main/toy_example/toy2.png =100x100)
+<div  align="center">
+<img src="https://github.com/YiqinYang/VEM/blob/main/toy_example/toy1.png" width = "300" height = "200" alt="VEM-toy1" align=center />
+<img src="https://github.com/YiqinYang/VEM/blob/main/toy_example/toy2.png" width = "300" height = "200" alt="VEM-toy2" align=center />
+</div>
 
 ## Quick Start
 
