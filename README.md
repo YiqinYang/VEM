@@ -2,6 +2,8 @@
 
 This is a pytorch implementation of VEM on [Datasets for Deep Data-Driven Reinforcement Learning (D4RL)](https://github.com/rail-berkeley/d4rl), the corresponding paper of VEM is [Offline Reinforcement Learning with Value-Based Episodic Memory](https://arxiv.org/abs/2110.09796).
 
+![Alt text](vem_schematic_diagram.pdf)
+
 ## Requirements
 
 - python=3.6.5
